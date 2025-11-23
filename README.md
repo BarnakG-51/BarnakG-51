@@ -54,19 +54,6 @@ Currently expanding my skill set to include **backend development** to build end
 - Conditional routing and parallel execution
 - State management across conversation turns
 
-## 📚 Learning Resources I Recommend
-
-### RAG & LLM Development
-- [LangChain Documentation](https://python.langchain.com/)
-- [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-- [Pinecone Learning Center](https://www.pinecone.io/learn/)
-
-### Backend Development
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Django Documentation](https://docs.djangoproject.com/)
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
 ## 🎓 What I'm Learning Next
 - [ ] Advanced RAG techniques (Hybrid Search, Re-ranking)
 - [ ] LangGraph for multi-agent systems
