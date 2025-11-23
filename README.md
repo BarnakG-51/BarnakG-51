@@ -1,5 +1,29 @@
 # 👋 Hi, I'm Barnak!
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarnakG-51&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarnakG-51&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarnakG-51&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarnakG-51&theme=react-dark&hide_border=true&area=true)](https://github.com/BarnakG-51)
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=BarnakG-51&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/BarnakG-51)
+
+</div>
+
+---
+
 ## 🚀 About Me
 I'm a **3rd year B.Tech student in Information Technology** at **Techno Main Salt Lake**, and an aspiring **AI Developer** passionate about building intelligent applications that leverage the power of Large Language Models (LLMs) and modern AI frameworks. My focus is on creating production-ready AI solutions with a strong emphasis on **Retrieval-Augmented Generation (RAG)**, **LangChain**, and **LangGraph**.
 
