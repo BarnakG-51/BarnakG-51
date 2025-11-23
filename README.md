@@ -33,7 +33,7 @@ Currently expanding my skill set to include **backend development** to build end
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!--
 ## 🌟 Key Projects
 
 ### 📚 RAG-Powered Knowledge Assistant
@@ -53,6 +53,7 @@ Currently expanding my skill set to include **backend development** to build end
 - Graph-based agent orchestration
 - Conditional routing and parallel execution
 - State management across conversation turns
+-->
 
 ## 🎓 What I'm Learning Next
 - [ ] Advanced RAG techniques (Hybrid Search, Re-ranking)
