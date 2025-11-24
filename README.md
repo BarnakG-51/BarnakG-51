@@ -1,29 +1,5 @@
 # 👋 Hi, I'm Barnak!
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarnakG-51&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarnakG-51&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarnakG-51&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarnakG-51&theme=react-dark&hide_border=true&area=true)](https://github.com/BarnakG-51)
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=BarnakG-51&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/BarnakG-51)
-
-</div>
-
----
-
 ## 🚀 About Me
 I'm a **3rd year B.Tech student in Information Technology** at **Techno Main Salt Lake**, and an aspiring **AI Developer** passionate about building intelligent applications that leverage the power of Large Language Models (LLMs) and modern AI frameworks. My focus is on creating production-ready AI solutions with a strong emphasis on **Retrieval-Augmented Generation (RAG)**, **LangChain**, and **LangGraph**.
 
@@ -92,11 +68,30 @@ Currently expanding my skill set to include **backend development** to build end
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/of_oz32809)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barnakg51@yahoo.com)
 
-## 💡 Fun Facts
-- 🧠 I believe RAG is the key to making LLMs truly useful in production
-- 🔧 I love building tools that make developers' lives easier
-- 📖 Always exploring new AI research papers and implementations
-- 🌱 Growing my full-stack skills to become an end-to-end AI engineer
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarnakG-51&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarnakG-51&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarnakG-51&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarnakG-51&theme=react-dark&hide_border=true&area=true)](https://github.com/BarnakG-51)
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=BarnakG-51&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/BarnakG-51)
+
+</div>
+
+---
+
 
 > My audiophile side:
 
