@@ -93,7 +93,3 @@ Currently expanding my skill set to include **backend development** to build end
 ---
 
 
-> My audiophile side:
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qpoxc26lbwhdvuxrfrc5hp3y4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
